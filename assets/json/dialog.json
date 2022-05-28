@@ -7,7 +7,7 @@
 		},
 		{
 			"speaker" : "homer",
-			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted."
+			"dialog" : "That guy went all over the place."
 		},
 		{	
 			"speaker" : "homer",
@@ -29,12 +29,12 @@
 	[
 		{
 			"speaker" : "neptune",
-			"dialog" : "See now, how men lay blame upon us gods for what is after all nothing but their own folly.",
+			"dialog" : "It's not my fault ya'll are stooooopid.",
 			"newSpeaker" : "true"
 		},
 		{
 			"speaker" : "neptune",
-			"dialog" : "Look at Aegisthus; he must needs make love to Agamemnon's wife unrighteously and then kill Agamemnon, though he knew it would be the death of him."
+			"dialog" : "Look at Aegisthus; he's nasty."
 		},
 		{	
 			"speaker" : "minerva",
@@ -43,17 +43,28 @@
 		},
 		{	
 			"speaker" : "minerva",
-			"dialog" : "It is for Ulysses that my heart bleeds, when I think of his sufferings in that lonely sea-girt island, far away, poor man, from all his friends."
+			"dialog" : "Man, things really suck for Ulysses rn huh."
+		},
+		{
+			"speaker" : "homer",
+			"dialog" : "lol yea.",
+			"newSpeaker" : "true"
 		},
 		{	
 			"speaker" : "jove",
-			"dialog" : "My child, what are you talking about? How can I forget Ulysses than whom there is no more capable man on earth, nor more liberal in his offerings to the immortal gods that live in heaven?",
+			"dialog" : "Bruh what?",
 			"newSpeaker" : "true"
 		},
 		{	
 			"speaker" : "minerva",
 			"dialog" : "If, then, the gods now mean that Ulysses should get home, we should first send Mercury to the Ogygian island to tell Calypso that we have made up our minds and that he is to return.",
 			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "homer",
+			"dialog" : "aight dope.",
+			"newSpeaker" : "true"
 		}
+
 	]
 ]
